@@ -1,0 +1,22 @@
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\dedealgis\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\bin\Debug\app.exe.config
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\bin\Debug\app.exe
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\bin\Debug\app.pdb
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\app.Properties.Resources.resources
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\app.exe
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\app.pdb
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\bin\Debug\app.exe.manifest
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\bin\Debug\app.application
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\app.exe.manifest
+C:\Users\Dedealgis\Documents\Visual Studio 2015\Projects\mano appas\WindowsFormsApplication1\obj\Debug\app.application
